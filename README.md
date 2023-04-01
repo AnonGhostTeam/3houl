@@ -30,4 +30,4 @@ python3 ghoul.py -u https://www.example.com
 ```
 python3 ghoul.py -u https://www.example.com --path /data
 ```
-<b>Note that: </b> When you specify an extension using <b>--type</b> option, Breacher includes paths of that extension as well as paths with no extensions like <b>/admin/login</b>
+<b>Note that: </b> When you specify an extension using <b>--type</b> option, Ghoul includes paths of that extension as well as paths with no extensions like <b>/admin/login</b>
